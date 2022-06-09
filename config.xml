@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Einstein at Caltech - Module 1"
+	useFullscreenExpand="true"
+	resizeOnImport="false"
+	indexPageName="Module!.html"
+
+>
+  <image imageURL="images/Title.jpg"
+	thumbURL="thumbs/Title.jpg"
+	linkURL="images/Title.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\exhibits\Einstein\Module 1\images\Title.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Einstein exhibit overview.jpg"
+	thumbURL="thumbs/Einstein exhibit overview.jpg"
+	linkURL="images/Einstein exhibit overview.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\exhibits\Einstein\Module 1\images\Einstein exhibit overview.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2_overview.jpg"
+	thumbURL="thumbs/2_overview.jpg"
+	linkURL="images/2_overview.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\exhibits\Einstein\Module 1\images\2_overview.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/3_ overview.jpg"
+	thumbURL="thumbs/3_ overview.jpg"
+	linkURL="images/3_ overview.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Einstein_1\3_ overview.jpg">
+    <title><![CDATA[Einstein and Millikan on a boat off Long Beach, with their wives: Elsa Einstein (on the left) and Greta Millikan (on the right)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Poster on campus_whole.jpg"
+	thumbURL="thumbs/Poster on campus_whole.jpg"
+	linkURL="images/Poster on campus_whole.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\exhibits\Einstein\Module 1\images\Poster on campus_whole.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Poster on campus_caption.jpg"
+	thumbURL="thumbs/Poster on campus_caption.jpg"
+	linkURL="images/Poster on campus_caption.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\exhibits\Einstein\Module 1\images\Poster on campus_caption.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Base 1a.jpg"
+	thumbURL="thumbs/Base 1a.jpg"
+	linkURL="images/Base 1a.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\exhibits\Einstein\Module 1\images\Base 1a.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Base 1b.jpg"
+	thumbURL="thumbs/Base 1b.jpg"
+	linkURL="images/Base 1b.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\exhibits\Einstein\Module 1\images\Base 1b.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Base 1c.jpg"
+	thumbURL="thumbs/Base 1c.jpg"
+	linkURL="images/Base 1c.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\exhibits\Einstein\Module 1\images\Base 1c.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Base 2.jpg"
+	thumbURL="thumbs/Base 2.jpg"
+	linkURL="images/Base 2.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\exhibits\Einstein\Module 1\images\Base 2.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Base 3.jpg"
+	thumbURL="thumbs/Base 3.jpg"
+	linkURL="images/Base 3.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\exhibits\Einstein\Module 1\images\Base 3.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
